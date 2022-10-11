@@ -11,6 +11,7 @@
 
 ## Documentation
 - [Fix a file location](https://github.com/collab-community/journey-book/pull/129) - I fixed all the file location in Collab Community Journey Book's documentations 
+- [Added License](https://github.com/Rutuj-Runwal/easynotes/pull/9) - The repository included license in the README.md. However, there's still no license added yet in the repository itself..
 
 ## Guides
 - [How to add social preview](https://github.com/Pradumnasaraf/open-source-with-pradumna/blob/main/pages/How-to/guide/social-preview.md) - I created a guide on how to add a social preview to your GitHub repository.
