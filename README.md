@@ -30,5 +30,6 @@
 - [Journey](https://github.com/collab-community/journey-book/pull/133) - I shared my jouney in tech 
 - [How HTTPS work](https://github.com/codemistic/Non-Code/pull/75) - I wrote a short blog about how HTTPs works 
 - [Importing WorkInProgress](https://github.com/AccessibleForAll/AccessibleWebDev/pull/125) - This PR adds the WorkInProgress component into the ImagesTemplate
+- [Magikarp Pokemon Card](https://github.com/dsasaank-369/Pokemon/pull/66) - This PR adds Magikarp in the pokemon characters.
 
 ## Issues
