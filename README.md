@@ -32,5 +32,6 @@
 - [How HTTPS work](https://github.com/codemistic/Non-Code/pull/75) - I wrote a short blog about how HTTPs works 
 - [Importing WorkInProgress](https://github.com/AccessibleForAll/AccessibleWebDev/pull/125) - This PR adds the WorkInProgress component into the ImagesTemplate
 - [Magikarp Pokemon Card](https://github.com/dsasaank-369/Pokemon/pull/66) - This PR adds Magikarp in the pokemon characters.
+- [OSSPH logo](https://github.com/OSSPhilippines/freefolio/pull/54) - I added OSSPH's website link to the OOSPH logo on the Freefolio website.
 
 ## Issues
